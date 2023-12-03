@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I want to shpw the knowldege I've adquired so far on HTML, using links, differents pages and images.
